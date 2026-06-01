@@ -1,16 +1,16 @@
 # Riga Transit Display
 
-A battery-powered e-ink dashboard mounted on the wall, showing real-time tram, bus, and trolleybus departures for two nearby stops in Riga, plus current weather.
+A battery-powered e-ink dashboard mounted magnetically on my friedge, showing real-time tram, bus, and trolleybus departures for my two closest stops in Riga, plus current weather so I know if I should grab an umbrella.
 
 ## Hardware
 
 - ESP32 Dev Board (FT232 USB-C)
 - Waveshare 7.5" e-ink display (075BN-T7-D2, 800x480, UC8179 driver)
-- 30-pin FPC breakout board
-- 3000mAh LiPo battery
-- USB-C LiPo charger module with protection
+- 30 pin FPC breakout board
+- 3000mAh battery
+- USB-C charger module with protection
 - Buck converter (5V regulation)
-- Slide switch (power)
+- Slide switch for power
 
 ## Stops
 
