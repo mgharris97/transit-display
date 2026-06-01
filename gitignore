@@ -1,5 +1,0 @@
-build/
-*.elf
-*.bin
-*.hex
-.DS_Store
